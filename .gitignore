@@ -9,5 +9,5 @@
 *.iml
 out
 .idea
+/.idea
 target
-*.xml
